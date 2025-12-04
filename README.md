@@ -16,6 +16,8 @@ A high-performance, locally-hosted tool for summarizing YouTube videos and answe
 - ⚡ **Production-Ready** - Comprehensive logging, error handling, and type hints
 - 🎨 **Beautiful UI** - User-friendly Gradio interface
 
+![alt text](https://github.com/dawmro/youtube_summarizer/blob/main/main.png?raw=true)
+
 ## 🎯 Performance Highlights
 
 | Metric | Performance |
